@@ -9,7 +9,7 @@
 }
 
 .header__logo {
-  background-image: url("/images/logoHeader.svg");
+  background-image: url("../images/logoHeader.svg");
   background-repeat: no-repeat;
   background-size: contain;
   min-width: 323px;
@@ -36,7 +36,7 @@
 
 .header__icon-menu {
   display: none;
-  background-image: url("/images/menuIcon.svg");
+  background-image: url("../images/menuIcon.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 25px;
@@ -51,11 +51,11 @@
 }
 
 .header__icon-search {
-  background-image: url("/images/searchIcon.svg");
+  background-image: url("../images/searchIcon.svg");
 }
 
 .header__icon-profile {
-  background-image: url("/images/profileIcon.svg");
+  background-image: url("../images/profileIcon.svg");
 }
 
 @media screen and (max-width: 1100px) {
