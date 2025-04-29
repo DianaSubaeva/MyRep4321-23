@@ -9,7 +9,7 @@
 }
 
 .header__logo {
-  background-image: url("/images/logoHeader.svg");
+  background-image: url("./images/logoHeader.svg");
   background-repeat: no-repeat;
   background-size: contain;
   min-width: 323px;
