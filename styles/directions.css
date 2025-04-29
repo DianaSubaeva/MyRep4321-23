@@ -56,15 +56,15 @@
 }
 
 .directions__card-icon-1 {
-  background-image: url("./images/directionsImage1.svg");
+  background-image: url("../import/images/directionsImage1.svg");
 }
 
 .directions__card-icon-2 {
-  background-image: url("./images/directionsImage2.svg");
+  background-image: url("../import/images/directionsImage2.svg");
 }
 
 .directions__card-icon-3 {
-  background-image: url("./images/directionsImage3.svg");
+  background-image: url("../import/images/directionsImage3.svg");
 }
 
 .directions__card-text {
