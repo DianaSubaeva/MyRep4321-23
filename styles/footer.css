@@ -26,7 +26,7 @@
 }
 
 .footer__logo {
-  background-image: url("../import/images/logoHeader.svg");
+  background-image: url("../images/logoHeader.svg");
   background-repeat: no-repeat;
   background-size: contain;
   min-width: 323px;
@@ -58,7 +58,7 @@
 }
 
 .footer__contacts-number-icon {
-  background-image: url("../import/images/phoneIcon.svg");
+  background-image: url("../images/phoneIcon.svg");
   background-repeat: no-repeat;
   background-size: contain;
   width: 30px;
@@ -88,15 +88,15 @@
 }
 
 .footer__contacts-icon-1 {
-  background-image: url("../import/images/tgIcon.png");
+  background-image: url("../images/tgIcon.png");
 }
 
 .footer__contacts-icon-2 {
-  background-image: url("../import/images/wkIcon.png");
+  background-image: url("../images/wkIcon.png");
 }
 
 .footer__contacts-icon-3 {
-  background-image: url("../import/images/okIcon.png");
+  background-image: url("../images/okIcon.png");
 }
 
 .footer__contacts-input {
