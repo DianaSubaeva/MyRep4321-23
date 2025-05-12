@@ -1,10 +1,10 @@
-@import url("./fonts/fonts.css");
+@import url("../fonts/fonts.css");
 
-@import url("./styles/header.css");
-@import url("./styles/hero.css");
-@import url("./styles/description.css");
-@import url("./styles/directions.css");
-@import url("./styles/footer.css");
+@import url("../styles/header.css");
+@import url("../styles/hero.css");
+@import url("../styles/description.css");
+@import url("../styles/directions.css");
+@import url("../styles/footer.css");
 
 html {
   scroll-behavior: smooth;
